@@ -1,0 +1,17 @@
+hr {
+  border: 3px solid #000000;
+  border-collapse: collapse;
+}
+
+/* .video-container{
+  position: absolute;
+  z-index: -100;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  background: url(http://social.technet.microsoft.com/wiki/cfs-file.ashx/__key/communityserver-wikis-components-files/00-00-00-00-05/5483.DEFAULT.png);
+  background-size: cover;
+
+} */
